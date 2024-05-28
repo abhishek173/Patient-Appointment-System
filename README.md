@@ -21,7 +21,7 @@ A system where patients can be added and appointments can be scheduled with note
    $ npm start
   -> Application will start running on port "http://localhost:3000"
 
-Now, you can Permorm all the Below Operations:
+Now, This app can Permorm all the Below Operations:
 - **Functionality**
     - **Create Patient:** User should be able to create a patient with basic info like name, mobile no, email etc.
     - **List Patients:** User should see a dashboard with the list of patients.
