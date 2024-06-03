@@ -2,9 +2,9 @@
 A system where patients can be added and appointments can be scheduled with notes.
 
 - **TechStack**
-    -Frontend: React
-    -Backend: FastAPI
-    -Database: SQlite
+    -Frontend: React,
+    -Backend: FastAPI,
+    -Database: SQlite,
     -Payment: Stripe
 
 - **Functionality**
