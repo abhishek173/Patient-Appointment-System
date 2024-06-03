@@ -1,6 +1,15 @@
 # Patient-Appointment-System
 A system where patients can be added and appointments can be scheduled with notes.
 
+This app can Perform all the Below Operations:
+- **Functionality**
+    - **Create Patient:** User should be able to create a patient with basic info like name, mobile no, email etc.
+    - **List Patients:** User should see a dashboard with the list of patients.
+    - **Search Functionality**: The dashboard should be searchable by patient name
+    - **View Patient:** Patient detail view for each patient
+    - **Create appointment:**  User should be able to create appointments for a patient.
+    - **Stripe Integration:** A payment link should be generated for each appointment.
+
 # steps to setup Backend Application
 1) install Python latest version
 2) Move to Backend directory
@@ -20,12 +29,3 @@ A system where patients can be added and appointments can be scheduled with note
 4) Run the below command to start the Application
    $ npm start
   -> Application will start running on port "http://localhost:3000"
-
-Now, This app can Perform all the Below Operations:
-- **Functionality**
-    - **Create Patient:** User should be able to create a patient with basic info like name, mobile no, email etc.
-    - **List Patients:** User should see a dashboard with the list of patients.
-    - **Search Functionality**: The dashboard should be searchable by patient name
-    - **View Patient:** Patient detail view for each patient
-    - **Create appointment:**  User should be able to create appointments for a patient.
-    - **Stripe Integration:** A payment link should be generated for each appointment.
