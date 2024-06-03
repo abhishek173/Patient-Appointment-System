@@ -1,7 +1,12 @@
 # Patient-Appointment-System
 A system where patients can be added and appointments can be scheduled with notes.
 
-This app can Perform all the Below Operations:
+- **TechStack**
+Frontend: React
+Backend: FastAPI
+Database: SQlite
+Payment: Stripe
+
 - **Functionality**
     - **Create Patient:** User should be able to create a patient with basic info like name, mobile no, email etc.
     - **List Patients:** User should see a dashboard with the list of patients.
